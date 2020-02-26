@@ -1,0 +1,5 @@
+static
+*.js
+*.png
+favicon.ico
+asset-manifest.json
