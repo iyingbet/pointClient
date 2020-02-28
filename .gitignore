@@ -2,4 +2,5 @@ static
 *.js
 *.png
 favicon.ico
+manifest.json
 asset-manifest.json
